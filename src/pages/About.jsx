@@ -5,3 +5,6 @@ export default function About() {
     <div>About</div>
   )
 }
+
+// switch this to the home page, a landing page
+// assigned to Micheal 
