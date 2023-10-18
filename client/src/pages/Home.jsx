@@ -8,5 +8,3 @@ export default function Home() {
     
   )
 }
-
-// assigned to Bolupe
